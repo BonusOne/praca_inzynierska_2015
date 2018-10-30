@@ -1,2 +1,0 @@
-
-To jest główna strona
